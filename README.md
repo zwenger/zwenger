@@ -6,7 +6,7 @@ Software Engineer
 
 As a System Engineer, I'm an expert problem solver with a passion for mastering new technologies quickly. My adaptable and "learn by doing" attitude has allowed me to tackle complex challenges and develop innovative solutions. In my current role, I'm developing a platform using NestJS, Next.js, MongoDB, Redis, and Docker. I also have experience with TypeScript, Redux, and Styled-components, which I used in my work as a Senior React Specialist. Previously, I developed a digital wallet using a microservices-oriented architecture with gRPC, RabbitMQ, AWS, Go, JavaScript, Node.js, and MongoDB. At Sovos, I developed tax calculation and content management applications using React.js, .NET, Java microservices, MicrosoftSQL, and Oracle databases. My passion for agile methodologies has led me to study and implement them in my work, while my DevOps experience has given me insight into the development process from end to end. When I'm not working on code, I enjoy playing music, gaming, and creating content on Twitch. If you'd like to learn more about my work with these technologies, feel free to check out my LinkedIn profile and connect with me there!
 
-* 🌍  I'm based in Italy
+* 🌍  I'm based in Argentina
 * ✉️  You can contact me at [ritortoalvaro93@gmail.com](mailto:ritortoalvaro93@gmail.com)
 * 🚀  I'm currently working on [NotNini](http://notnini.com/)
 * 🧠  I'm learning Golang
