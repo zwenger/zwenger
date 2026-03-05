@@ -8,7 +8,7 @@ As a System Engineer, I'm an expert problem solver with a passion for mastering 
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [ritortoalvaro93@gmail.com](mailto:ritortoalvaro93@gmail.com)
-* 🚀  I'm currently working on [NotNini](http://notnini.com/)
+* 🚀  I'm currently working on CareerOS
 * 🧠  I'm learning Golang
 
 <a href="https://www.github.com/zwenger" target="_blank" rel="noreferrer"><img
