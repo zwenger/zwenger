@@ -97,14 +97,6 @@ A **Turborepo monorepo of 18+ services** — and I work across most of it:
 
 ---
 
-### GitHub stats
-
-<p align="left">
-<a href="http://www.github.com/zwenger"><img height="170" src="https://github-readme-stats.vercel.app/api?username=zwenger&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="zwenger's GitHub stats" /></a>
-</p>
-
----
-
 ### Find me
 
 <p align="left">
