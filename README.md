@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.github.com/zwenger"><img src="https://img.shields.io/github/followers/zwenger?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-  <a href="https://www.twitch.tv/zwengerr"><img src="https://img.shields.io/twitch/status/zwengerr?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 </p>
 
 ---
@@ -102,7 +101,6 @@ A **Turborepo monorepo of 18+ services** — and I work across most of it:
 
 <p align="left">
 <a href="http://www.github.com/zwenger"><img height="170" src="https://github-readme-stats.vercel.app/api?username=zwenger&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="zwenger's GitHub stats" /></a>
-<a href="https://github.com/zwenger"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwenger&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
 
 ---
