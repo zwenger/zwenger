@@ -12,7 +12,7 @@
 
 ### About me
 
-Full-stack engineer with a **learn-by-doing** mindset, strongest on the frontend and just as comfortable deep in distributed backends and infra. I've shipped fintech wallets handling **$1M/month**, products that raised **$200K in VC**, and platforms used by hundreds of enterprise customers.
+Full-stack engineer with a **learn-by-doing** mindset, strongest on the frontend and just as comfortable deep in distributed backends and infra. I've shipped fintech wallets handling **$1M/month**, products that raised **$100K in VC**, and platforms used by hundreds of enterprise customers.
 
 - 🌍  Based in Barcelona, Spain
 - 🚀  Building **CareerOS**, a career-services platform for universities
