@@ -37,7 +37,7 @@ A **Turborepo monorepo of 18+ services** — and I work across most of it:
 |---|---|---|
 | **CareerOS** | Full-Stack Engineer | Employer hiring product → 300+ customers; cross-app tooling for students, advisors & employers |
 | **Capitole Consulting** | Frontend Engineer | Insurance-claims app — React, Redux Sagas, Storybook, Jest + Playwright, Azure CI/CD |
-| **NotNini** | Software Engineer | Led E2E microservices (Next, NestJS, Redis, Mongo, Docker) — helped raise **$200K VC** |
+| **NotNini** | Software Engineer | Led E2E microservices (Next, NestJS, Redis, Mongo, Docker) — helped raise **$100K VC** |
 | **Altimetrik** *(Funding Circle)* | Senior React Specialist | Credit-card management UI moving **$1M/month**; micro-frontends via module federation |
 | **Eliot — TACH wallet** | Backend Developer | Fintech core in Go/gRPC/RabbitMQ — **30k transactions/min**, **$1M/month** revenue |
 | **Sovos** | Software Engineer II | Tax-calculation apps (C#, Java/Spring, React); cut time-to-prod from hours to minutes |
